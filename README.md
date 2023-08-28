@@ -18,7 +18,7 @@
   <span>中文 | <a href="./README.en.md">English</a></span>
 </p>
 
-## 项目简介(Git練習使用KyleTill)
+## 项目简介(Git練習使用Kyle22)
 
 `spring boot demo` 是一个用来深度学习并实战 `spring boot` 的项目，目前总共包含 **`66`** 个集成demo，已经完成 **`55`** 个。
 
