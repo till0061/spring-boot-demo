@@ -3,6 +3,7 @@ package com.xkcoding.email.service;
 import javax.mail.MessagingException;
 
 /**
+ * Git修改測試10:22
  * <p>
  * 邮件接口
  * </p>
